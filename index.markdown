@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-# title:  "Audio Samples"
+title:  "Audio Samples"
 date:   2022-01-10 17:06:46 +0900
 layout: home
 
