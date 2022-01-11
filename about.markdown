@@ -16,4 +16,6 @@ So we provided 3 types of samples; better, similar, and worse samples compare to
 
 ## Model Overview
 
-![model](icassp2022pcl.github.io/img/model_overview.png)
+![model](./icassp2022pcl.github.io/img/model_overview.png)
+
+<img src="./icassp2022pcl.github.io/img/model_overview.png" width="100px" height="50px" title="model overview"/>
