@@ -16,8 +16,7 @@ So we provided 3 types of samples; better, similar, and worse samples compare to
 
 ## Model Overview
 
-![model](./icassp2022pcl.github.io/img/model_overview.png)
+We proposed a phase continuity loss in multi-resolution. The DEMUCS model is used as speech enhancement network. The description of model overview is below figure.
 
-<img src="./icassp2022pcl.github.io/img/model_overview.png" width="100px" height="50px" title="model overview"/>
+<img src="https://icassp2022pcl.github.io/img/model_overview.png" width="700px" title="model overview"/>
 
-</img>
