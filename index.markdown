@@ -52,31 +52,31 @@ layout: home
 		</tr>
     <tr>
 	        <td>
-	            p257_175
+	            p232_247
 	        </td>
 			<td>
 				<audio controls style="width:150px">
-				<source src="samples/samples_good/test_clean/p257_175_clean.wav">
+				<source src="samples/samples_good/test_clean/p232_247_clean.wav">
 				</audio> 
 			</td>
 			<td>
 				<audio controls style="width:150px">
-				<source src="samples/samples_good/test_noisy/p257_175_noisy.wav">
+				<source src="samples/samples_good/test_noisy/p232_247_noisy.wav">
 				</audio> 
 	        </td>		
 			<td>
 				<audio controls style="width:150px">
-				<source src="samples/samples_good/baseline/p257_175_baseline.wav">
+				<source src="samples/samples_good/baseline/p232_247_baseline.wav">
 				</audio> 
 	        </td>
 	        <td>
 				<audio controls style="width:150px">
-				<source src="samples/samples_good/baseline_pl/p257_175_pl.wav">
+				<source src="samples/samples_good/baseline_pl/p232_247_pl.wav">
 				</audio> 
 	        </td>
 	        <td>
 				<audio controls style="width:150px">
-				<source src="samples/samples_good/proposed/p257_175_enhanced.wav">
+				<source src="samples/samples_good/proposed/p232_247_enhanced.wav">
 				</audio> 
 	        </td>
 		</tr>
@@ -111,6 +111,7 @@ layout: home
 	        </td>
 		</tr>
 	</table>
+
 
 
 
@@ -297,31 +298,31 @@ layout: home
 		</tr>
     <tr>
 	        <td>
-	            p257_328
+	            p257_208
 	        </td>
 			<td>
 				<audio controls style="width:150px">
-				<source src="samples/samples_bad/test_clean/p257_328_c.wav">
+				<source src="samples/samples_bad/test_clean/p257_208_c.wav">
 				</audio> 
 			</td>
 			<td>
 				<audio controls style="width:150px">
-				<source src="samples/samples_bad/test_noisy/p257_328_n.wav">
+				<source src="samples/samples_bad/test_noisy/p257_208_n.wav">
 				</audio> 
 	        </td>		
 			<td>
 				<audio controls style="width:150px">
-				<source src="samples/samples_bad/baseline/p257_328_baseline.wav">
+				<source src="samples/samples_bad/baseline/p257_208_baseline.wav">
 				</audio> 
 	        </td>
 	        <td>
 				<audio controls style="width:150px">
-				<source src="samples/samples_bad/baseline_pl/p257_328_pl.wav">
+				<source src="samples/samples_bad/baseline_pl/p257_208_pl.wav">
 				</audio> 
 	        </td>
 	        <td>
 				<audio controls style="width:150px">
-				<source src="samples/samples_bad/proposed/p257_328_enhanced.wav">
+				<source src="samples/samples_bad/proposed/p257_208_enhanced.wav">
 				</audio> 
 	        </td>
 		</tr>
